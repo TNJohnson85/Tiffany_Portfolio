@@ -1,36 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/TNJohnson85/Washinghands/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi!! I'm Tiffany and this is my first portfolio. I take pride in my work because these are skills I've taught myself over the past few months. I love analyzing data and it's literally become second nature to me. I'm constantly updating my portfolio to showcase my skills and growth as I learn more about data analytics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project 1: Why We Wash Our Hands
+This was a project I completed that allowed me to import and clean data, create data visualizations, data manipulation, and it review case studies.         
 
-### Markdown
+[Project Overview](https://app.datacamp.com/workspace/w/3ea03b3f-4c04-49e1-a7b3-b8d8ea8eae6a)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Project 2: Word Play 
+This project is still is progress but since I am a former English teacher, it made sense to create something educational.   
 
-- Bulleted
-- List
+[Profile / Project Overview](https://replit.com/@Tnjohnson85/Word-Play)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TNJohnson85/Washinghands/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
