@@ -1,6 +1,6 @@
 # Welcome to my portfolio
 
-Hi!! I'm Tiffany and this is my first portfolio. I take pride in my work because these are skills I've taught myself over the past few months. I love analyzing data and it's literally become second nature to me. I'm constantly updating my portfolio to showcase my skills and growth as I learn more about data analytics. 
+Hi!! I'm Tiffany and I love all things data and technology. I take pride in my work because these are skills I've taught myself and it's literally become second nature to me. I'm constantly updating my portfolio to showcase my skills and growth as I learn more about data analytics. 
 
 Stay tuned for more projects!
 
